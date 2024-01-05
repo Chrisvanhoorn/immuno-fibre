@@ -2,11 +2,11 @@
 
 This project was started to analyse epitope distribution along fibres with regularly repeating features, specifically by using immuno-gold labeling. An example of our data before and after immuno-gold labeling:
 
-![screenshotMap](example.png "rawdata")
+![screenshotMap](example.PNG "rawdata")
 
 The output is a histogram that shows the distribution per three repeating units of the fibre, as well as a heatmap that includes lateral distribution of gold per three repeats:
 
-![screenshotMap](output.png "output")
+![screenshotMap](output.PNG "output")
 
 ## About the scripts
 
